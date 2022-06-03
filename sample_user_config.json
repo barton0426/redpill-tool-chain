@@ -4,8 +4,8 @@
         "vid": "0x46f4",
         "sn": "1860PDN002444",
         "mac1": "001132AFDA5C",
-        "SataPortMap": "666",
-        "DiskIdxMap": "0C0006"
+        "SataPortMap": "66",
+        "DiskIdxMap": "0600"
     },
     "synoinfo": {
         "internalportcfg": "0xffff",
